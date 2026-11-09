@@ -1,0 +1,502 @@
+{
+ "languages": [
+  {
+   "code": "es",
+   "label": "ES",
+   "name": "Español"
+  },
+  {
+   "code": "en",
+   "label": "EN",
+   "name": "English"
+  },
+  {
+   "code": "de",
+   "label": "DE",
+   "name": "Deutsch"
+  },
+  {
+   "code": "fr",
+   "label": "FR",
+   "name": "Français"
+  }
+ ],
+ "ui": {
+  "nav.home": {
+   "es": "Inicio",
+   "en": "Home",
+   "de": "Start",
+   "fr": "Accueil"
+  },
+  "nav.projects": {
+   "es": "Proyectos",
+   "en": "Projects",
+   "de": "Projekte",
+   "fr": "Projets"
+  },
+  "nav.papers": {
+   "es": "Papers",
+   "en": "Papers",
+   "de": "Publikationen",
+   "fr": "Articles"
+  },
+  "nav.events": {
+   "es": "Eventos",
+   "en": "Events",
+   "de": "Veranstaltungen",
+   "fr": "Événements"
+  },
+  "nav.conferences": {
+   "es": "Conferencias",
+   "en": "Conferences",
+   "de": "Konferenzbeiträge",
+   "fr": "Conférences"
+  },
+  "nav.people": {
+   "es": "Personas",
+   "en": "People",
+   "de": "Personen",
+   "fr": "Personnes"
+  },
+  "nav.contact": {
+   "es": "Contacto",
+   "en": "Contact",
+   "de": "Kontakt",
+   "fr": "Contact"
+  },
+  "all": {
+   "es": "Todos",
+   "en": "All",
+   "de": "Alle",
+   "fr": "Tous"
+  },
+  "filters.aria": {
+   "es": "Filtrar por línea de investigación",
+   "en": "Filter by research line",
+   "de": "Nach Forschungslinie filtern",
+   "fr": "Filtrer par axe de recherche"
+  },
+  "noresults": {
+   "es": "Sin resultados.",
+   "en": "No results.",
+   "de": "Keine Ergebnisse.",
+   "fr": "Aucun résultat."
+  },
+  "link": {
+   "es": "Enlace",
+   "en": "Link",
+   "de": "Link",
+   "fr": "Lien"
+  },
+  "video": {
+   "es": "Vídeo",
+   "en": "Video",
+   "de": "Video",
+   "fr": "Vidéo"
+  },
+  "footer.identity": {
+   "es": "Imagen gráfica",
+   "en": "Graphic identity",
+   "de": "Grafische Identität",
+   "fr": "Identité graphique"
+  },
+  "home.seeProjects": {
+   "es": "Ver proyectos",
+   "en": "See projects",
+   "de": "Projekte ansehen",
+   "fr": "Voir les projets"
+  },
+  "home.meetTeam": {
+   "es": "Conocer al equipo",
+   "en": "Meet the team",
+   "de": "Das Team kennenlernen",
+   "fr": "Découvrir l'équipe"
+  },
+  "home.lines": {
+   "es": "Líneas de investigación",
+   "en": "Research lines",
+   "de": "Forschungslinien",
+   "fr": "Axes de recherche"
+  },
+  "home.seeLineProjects": {
+   "es": "Ver proyectos →",
+   "en": "See projects →",
+   "de": "Projekte ansehen →",
+   "fr": "Voir les projets →"
+  },
+  "home.mission": {
+   "es": "Misión",
+   "en": "Mission",
+   "de": "Mission",
+   "fr": "Mission"
+  },
+  "home.science": {
+   "es": "Producción científica actualizada →",
+   "en": "Up-to-date scientific output →",
+   "de": "Aktuelle wissenschaftliche Produktion →",
+   "fr": "Production scientifique à jour →"
+  },
+  "home.teamAlt": {
+   "es": "Equipo del grupo AGA",
+   "en": "The AGA research group team",
+   "de": "Das Team der Gruppe AGA",
+   "fr": "L'équipe du groupe AGA"
+  },
+  "home.recentProjects": {
+   "es": "Proyectos recientes",
+   "en": "Recent projects",
+   "de": "Aktuelle Projekte",
+   "fr": "Projets récents"
+  },
+  "home.all": {
+   "es": "Todos →",
+   "en": "All →",
+   "de": "Alle →",
+   "fr": "Tous →"
+  },
+  "home.upcomingEvents": {
+   "es": "Próximos eventos",
+   "en": "Upcoming events",
+   "de": "Kommende Veranstaltungen",
+   "fr": "Prochains événements"
+  },
+  "home.recentEvents": {
+   "es": "Eventos recientes",
+   "en": "Recent events",
+   "de": "Aktuelle Veranstaltungen",
+   "fr": "Événements récents"
+  },
+  "home.latestPapers": {
+   "es": "Últimos papers",
+   "en": "Latest papers",
+   "de": "Neueste Publikationen",
+   "fr": "Derniers articles"
+  },
+  "home.team": {
+   "es": "Equipo",
+   "en": "Team",
+   "de": "Team",
+   "fr": "Équipe"
+  },
+  "home.peopleCount": {
+   "es": "{n} personas.",
+   "en": "{n} people.",
+   "de": "{n} Personen.",
+   "fr": "{n} personnes."
+  },
+  "home.seePeople": {
+   "es": "Ver personas →",
+   "en": "See people →",
+   "de": "Personen ansehen →",
+   "fr": "Voir les personnes →"
+  },
+  "home.partners": {
+   "es": "Entidades colaboradoras",
+   "en": "Partner organisations",
+   "de": "Partnerorganisationen",
+   "fr": "Organisations partenaires"
+  },
+  "home.sdgs": {
+   "es": "ODS relacionados",
+   "en": "Related SDGs",
+   "de": "Zugehörige SDGs",
+   "fr": "ODD associés"
+  },
+  "sdg": {
+   "es": "ODS",
+   "en": "SDG",
+   "de": "SDG",
+   "fr": "ODD"
+  },
+  "back.projects": {
+   "es": "← Proyectos",
+   "en": "← Projects",
+   "de": "← Projekte",
+   "fr": "← Projets"
+  },
+  "back.people": {
+   "es": "← Personas",
+   "en": "← People",
+   "de": "← Personen",
+   "fr": "← Personnes"
+  },
+  "back.papers": {
+   "es": "← Papers",
+   "en": "← Papers",
+   "de": "← Publikationen",
+   "fr": "← Articles"
+  },
+  "back.events": {
+   "es": "← Eventos",
+   "en": "← Events",
+   "de": "← Veranstaltungen",
+   "fr": "← Événements"
+  },
+  "back.conferences": {
+   "es": "← Conferencias",
+   "en": "← Conferences",
+   "de": "← Konferenzbeiträge",
+   "fr": "← Conférences"
+  },
+  "projects.lead": {
+   "es": "Investigación, servicios, cooperación y formación del grupo.",
+   "en": "Research, services, cooperation and training of the group.",
+   "de": "Forschung, Dienstleistungen, Kooperation und Weiterbildung der Gruppe.",
+   "fr": "Recherche, services, coopération et formation du groupe."
+  },
+  "projects.search": {
+   "es": "Buscar proyectos…",
+   "en": "Search projects…",
+   "de": "Projekte suchen…",
+   "fr": "Rechercher des projets…"
+  },
+  "fact.type": {
+   "es": "Tipo",
+   "en": "Type",
+   "de": "Typ",
+   "fr": "Type"
+  },
+  "fact.status": {
+   "es": "Estado",
+   "en": "Status",
+   "de": "Status",
+   "fr": "Statut"
+  },
+  "fact.year": {
+   "es": "Año",
+   "en": "Year",
+   "de": "Jahr",
+   "fr": "Année"
+  },
+  "fact.start": {
+   "es": "Inicio",
+   "en": "Start",
+   "de": "Beginn",
+   "fr": "Début"
+  },
+  "fact.end": {
+   "es": "Fin",
+   "en": "End",
+   "de": "Ende",
+   "fr": "Fin"
+  },
+  "fact.funding": {
+   "es": "Financiación",
+   "en": "Funding",
+   "de": "Finanzierung",
+   "fr": "Financement"
+  },
+  "projectWeb": {
+   "es": "Web del proyecto",
+   "en": "Project website",
+   "de": "Projektwebsite",
+   "fr": "Site du projet"
+  },
+  "eventWeb": {
+   "es": "Web del evento",
+   "en": "Event website",
+   "de": "Veranstaltungswebsite",
+   "fr": "Site de l'événement"
+  },
+  "abstract": {
+   "es": "Resumen",
+   "en": "Abstract",
+   "de": "Zusammenfassung",
+   "fr": "Résumé"
+  },
+  "event.one": {
+   "es": "Evento",
+   "en": "Event",
+   "de": "Veranstaltung",
+   "fr": "Événement"
+  },
+  "people.lead": {
+   "es": "Investigadores y colaboradores del grupo AGA.",
+   "en": "Researchers and collaborators of the AGA group.",
+   "de": "Forschende und Mitarbeitende der Gruppe AGA.",
+   "fr": "Chercheurs et collaborateurs du groupe AGA."
+  },
+  "people.search": {
+   "es": "Buscar personas…",
+   "en": "Search people…",
+   "de": "Personen suchen…",
+   "fr": "Rechercher des personnes…"
+  },
+  "group.Investigadores": {
+   "es": "Investigadores",
+   "en": "Researchers",
+   "de": "Forschende",
+   "fr": "Chercheurs"
+  },
+  "group.Colaboradores": {
+   "es": "Colaboradores",
+   "en": "Collaborators",
+   "de": "Mitarbeitende",
+   "fr": "Collaborateurs"
+  },
+  "group.Otros": {
+   "es": "Otros",
+   "en": "Others",
+   "de": "Weitere",
+   "fr": "Autres"
+  },
+  "papers.lead": {
+   "es": "Publicaciones científicas, siempre asociadas a uno o más proyectos.",
+   "en": "Scientific publications, always linked to one or more projects.",
+   "de": "Wissenschaftliche Publikationen, stets einem oder mehreren Projekten zugeordnet.",
+   "fr": "Publications scientifiques, toujours rattachées à un ou plusieurs projets."
+  },
+  "papers.search": {
+   "es": "Buscar por título, autor, revista…",
+   "en": "Search by title, author, journal…",
+   "de": "Nach Titel, Autor, Zeitschrift suchen…",
+   "fr": "Rechercher par titre, auteur, revue…"
+  },
+  "papers.empty": {
+   "es": "Aún no hay papers.",
+   "en": "No papers yet.",
+   "de": "Noch keine Publikationen.",
+   "fr": "Aucun article pour l'instant."
+  },
+  "events.lead": {
+   "es": "Congresos, jornadas, talleres y seminarios. Las conferencias presentadas aparecen dentro de cada evento.",
+   "en": "Congresses, workshops and seminars. Conferences presented are listed inside each event.",
+   "de": "Kongresse, Workshops und Seminare. Gehaltene Beiträge erscheinen innerhalb jeder Veranstaltung.",
+   "fr": "Congrès, journées, ateliers et séminaires. Les conférences présentées figurent dans chaque événement."
+  },
+  "events.search": {
+   "es": "Buscar eventos…",
+   "en": "Search events…",
+   "de": "Veranstaltungen suchen…",
+   "fr": "Rechercher des événements…"
+  },
+  "events.upcoming": {
+   "es": "Próximos",
+   "en": "Upcoming",
+   "de": "Kommend",
+   "fr": "À venir"
+  },
+  "events.past": {
+   "es": "Pasados",
+   "en": "Past",
+   "de": "Vergangen",
+   "fr": "Passés"
+  },
+  "events.empty": {
+   "es": "Aún no hay eventos.",
+   "en": "No events yet.",
+   "de": "Noch keine Veranstaltungen.",
+   "fr": "Aucun événement pour l'instant."
+  },
+  "conf.lead": {
+   "es": "Ponencias, pósters y comunicaciones del grupo, siempre dentro de un evento.",
+   "en": "Talks, posters and communications of the group, always within an event.",
+   "de": "Vorträge, Poster und Beiträge der Gruppe, stets innerhalb einer Veranstaltung.",
+   "fr": "Communications, posters et exposés du groupe, toujours rattachés à un événement."
+  },
+  "conf.search": {
+   "es": "Buscar por título, autor, evento…",
+   "en": "Search by title, author, event…",
+   "de": "Nach Titel, Autor, Veranstaltung suchen…",
+   "fr": "Rechercher par titre, auteur, événement…"
+  },
+  "conf.empty": {
+   "es": "Aún no hay conferencias.",
+   "en": "No conferences yet.",
+   "de": "Noch keine Konferenzbeiträge.",
+   "fr": "Aucune conférence pour l'instant."
+  },
+  "contrib.one": {
+   "es": "{n} contribución",
+   "en": "{n} contribution",
+   "de": "{n} Beitrag",
+   "fr": "{n} contribution"
+  },
+  "contrib.many": {
+   "es": "{n} contribuciones",
+   "en": "{n} contributions",
+   "de": "{n} Beiträge",
+   "fr": "{n} contributions"
+  },
+  "404.title": {
+   "es": "Página no encontrada",
+   "en": "Page not found",
+   "de": "Seite nicht gefunden",
+   "fr": "Page introuvable"
+  },
+  "404.text": {
+   "es": "La página que buscas no existe.",
+   "en": "The page you are looking for does not exist.",
+   "de": "Die gesuchte Seite existiert nicht.",
+   "fr": "La page que vous cherchez n'existe pas."
+  },
+  "404.home": {
+   "es": "Volver al inicio",
+   "en": "Back to home",
+   "de": "Zurück zur Startseite",
+   "fr": "Retour à l'accueil"
+  },
+  "nav.lines": {
+   "es": "Líneas de investigación",
+   "en": "Research lines",
+   "de": "Forschungslinien",
+   "fr": "Axes de recherche"
+  },
+  "back.lines": {
+   "es": "← Líneas de investigación",
+   "en": "← Research lines",
+   "de": "← Forschungslinien",
+   "fr": "← Axes de recherche"
+  },
+  "lines.lead": {
+   "es": "Los grandes temas en los que trabaja el grupo.",
+   "en": "The main topics the group works on.",
+   "de": "Die Hauptthemen, an denen die Gruppe arbeitet.",
+   "fr": "Les grands thèmes sur lesquels travaille le groupe."
+  },
+  "legend": {
+   "es": "Leyenda",
+   "en": "Legend",
+   "de": "Legende",
+   "fr": "Légende"
+  }
+ },
+ "site": {
+  "en": {
+   "tagline": "We look to the future by analysing the footprint of the present and past",
+   "intro": "The Advanced Geomatics Applications (AGA) Research Group of the Universidad Politécnica de Madrid studies our footprints through new technologies.",
+   "mission": "AGA's mission is to advance the fields of Cartographic, Geodetic and Photogrammetric Engineering and Ground Engineering.",
+   "sdgs": {
+    "6": "Clean water and sanitation",
+    "9": "Industry, innovation and infrastructure",
+    "11": "Sustainable cities and communities",
+    "14": "Life below water",
+    "15": "Life on land"
+   }
+  },
+  "de": {
+   "tagline": "Wir blicken in die Zukunft, indem wir den Fußabdruck von Gegenwart und Vergangenheit analysieren",
+   "intro": "Die Forschungsgruppe Advanced Geomatics Applications (AGA) der Universidad Politécnica de Madrid untersucht unsere Spuren mithilfe neuer Technologien.",
+   "mission": "AGA hat zum Ziel, die Fachgebiete Kartographie, Geodäsie und Photogrammetrie sowie Geotechnik voranzubringen.",
+   "sdgs": {
+    "6": "Sauberes Wasser und Sanitäreinrichtungen",
+    "9": "Industrie, Innovation und Infrastruktur",
+    "11": "Nachhaltige Städte und Gemeinden",
+    "14": "Leben unter Wasser",
+    "15": "Leben an Land"
+   }
+  },
+  "fr": {
+   "tagline": "Nous regardons vers l'avenir en analysant l'empreinte du présent et du passé",
+   "intro": "Le groupe de recherche Applications Géomatiques Avancées (AGA) de l'Universidad Politécnica de Madrid étudie nos empreintes grâce aux nouvelles technologies.",
+   "mission": "AGA a pour mission de faire progresser les domaines de l'ingénierie cartographique, géodésique et photogrammétrique ainsi que de l'ingénierie du terrain.",
+   "sdgs": {
+    "6": "Eau propre et assainissement",
+    "9": "Industrie, innovation et infrastructure",
+    "11": "Villes et communautés durables",
+    "14": "Vie aquatique",
+    "15": "Vie terrestre"
+   }
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"name":"aga-web","private":true,"type":"module","scripts":{"build":"node src/build.mjs","serve":"node src/build.mjs && python3 -m http.server 8000 -d docs"},"engines":{"node":">=18"}}

@@ -1,0 +1,110 @@
+{
+  "name": "AGA",
+  "fullName": "Grupo de Investigación Aplicaciones Geomáticas Avanzadas",
+  "university": "Universidad Politécnica de Madrid",
+  "tagline": "Miramos al futuro analizando la huella del presente y pasado",
+  "intro": "El Grupo de Investigación Aplicaciones Geomáticas Avanzadas (AGA) de la Universidad Politécnica de Madrid estudia nuestras huellas a través de las nuevas tecnologías.",
+  "mission": "AGA tiene por misión avanzar en el área de conocimiento de Ingeniería Cartográfica, Geodésica y Fotogrametría y en el área de Ingeniería del Terreno.",
+  "email": "gi.aga@upm.es",
+  "baseUrl": "/web/",
+  "social": [
+    {
+      "label": "X / Twitter",
+      "url": "https://x.com/GeoCaminos_UPM"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@geomaticaupm8427"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/geom%C3%A1tica-caminos-upm-86109a181/"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/GeomaticsCaminosUPM"
+    },
+    {
+      "label": "Portal Científico UPM",
+      "url": "https://portalcientifico.upm.es/es/ipublic/entity/16363"
+    }
+  ],
+  "schools": [
+    {
+      "name": "E.T.S.I. de Caminos, Canales y Puertos"
+    },
+    {
+      "name": "E.T.S.I. en Topografía, Geodesia y Cartografía"
+    }
+  ],
+  "partners": [
+    {
+      "name": "UPM Water",
+      "logo": "upm-water.png",
+      "url": "https://www.upm.es/Investigacion/innovacion/Comunidades/UPMWater"
+    },
+    {
+      "name": "ITD – Innovación y Tecnología para el Desarrollo",
+      "logo": "itdupm.png",
+      "url": "http://itd.upm.es/en/"
+    },
+    {
+      "name": "Detektia",
+      "logo": "detektia.png",
+      "url": "https://detektia.com/"
+    },
+    {
+      "name": "Observatorio de Acción Climática",
+      "logo": "oac.png",
+      "url": "http://observatoriodeaccionclimatica.org/"
+    },
+    {
+      "name": "Red PHI – UNESCO",
+      "logo": "phi-unesco.jpg",
+      "url": "https://www.un.org/es/global-issues/water"
+    },
+    {
+      "name": "Copernicus",
+      "logo": "oip.jpeg",
+      "url": "https://scihub.copernicus.eu/"
+    }
+  ],
+  "sdgs": [
+    {
+      "n": 6,
+      "name": "Agua limpia y saneamiento",
+      "logo": "ods-06.jpg",
+      "url": "https://www.un.org/sustainabledevelopment/es/water-and-sanitation/"
+    },
+    {
+      "n": 9,
+      "name": "Industria, innovación e infraestructura",
+      "logo": "ods-09.jpg",
+      "url": "https://www.un.org/sustainabledevelopment/es/infrastructure/"
+    },
+    {
+      "n": 11,
+      "name": "Ciudades y comunidades sostenibles",
+      "logo": "ods-11.jpg",
+      "url": "https://www.un.org/sustainabledevelopment/es/cities/"
+    },
+    {
+      "n": 14,
+      "name": "Vida submarina",
+      "logo": "ods-14.jpg",
+      "url": "https://www.un.org/sustainabledevelopment/es/oceans/"
+    },
+    {
+      "n": 15,
+      "name": "Vida de ecosistemas terrestres",
+      "logo": "ods-15.jpg",
+      "url": "https://www.un.org/sustainabledevelopment/es/biodiversity/"
+    }
+  ],
+  "graphicIdentityUrl": "https://drive.upm.es/s/XRweTqf6ZIlbLgS",
+  "peopleGroups": [
+    "Investigadores",
+    "Colaboradores"
+  ],
+  "coordinates": "40°26′N 3°44′W · Madrid"
+}
